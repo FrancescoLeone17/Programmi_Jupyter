@@ -1,0 +1,5 @@
+150
+10000
+
+   ReadInput >> nblk;
+   ReadInput >> nstep;

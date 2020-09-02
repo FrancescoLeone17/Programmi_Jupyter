@@ -1,0 +1,11 @@
+309
+0.2
+1
+  
+  ReadInput >> N_temp;
+  ReadInput >> pb_mut;
+  ReadInput >> key;
+
+
+
+

@@ -1,0 +1,7 @@
+100
+1
+10
+
+  ReadInput >> nstep;
+  ReadInput >> key;
+  ReadInput >> nmigr;

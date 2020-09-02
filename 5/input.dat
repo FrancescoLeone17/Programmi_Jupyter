@@ -1,0 +1,11 @@
+200
+10000
+1.8
+1
+1
+
+  InFile >> nblk,
+  InFile >> nstep;
+  InFile >> par;
+  InFile >> key1;
+  InFile >> key2;

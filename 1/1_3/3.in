@@ -1,0 +1,9 @@
+10000
+150     
+0.1        
+0.05    
+
+   InFile >> Nthr;
+   InFile >> Nblk;
+   InFile >> d;
+   InFile >> L;

@@ -1,0 +1,7 @@
+150
+10000
+100
+ 
+   InFile >> nblk;
+   InFile >> nstep;
+   InFile >> nInt;
